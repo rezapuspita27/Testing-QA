@@ -10,3 +10,4 @@ Untuk pengerjaan saya sudah berusaha melakukan setting pada akun github hingga m
 
 
 <h1>Tugas UAS</h1>
+https://github.com/rezapuspita27/Testing-QA/tree/main/basic-automation
