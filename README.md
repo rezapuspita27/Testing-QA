@@ -1,7 +1,6 @@
 <h1>Tugas UAS 1</h1>
 ![image](https://github.com/rezapuspita27/Testing-QA/assets/117505125/c6e261fe-aa5e-4d37-8f01-8480c4ccf851)
 
-https://github.com/rezapuspita27/Testing-QA/blob/main/SimpleCart/test/test_routes.py
 
 <h1>Tugas UAS 2</h1>
 
