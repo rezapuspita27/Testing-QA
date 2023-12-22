@@ -1,3 +1,6 @@
+<h1>Tugas UAS 1</h1>
+
+
 <h1>Tugas UAS 2</h1>
 
 Selamat malam pak, mohon maaf terkait tugas uas yang kedua saya sudah coba untuk pull via gitbash namun akun github saya bermasalah dan tidak bisa terintegrasi. Sehingga saya pull tugas saya via upload :(
