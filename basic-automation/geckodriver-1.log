@@ -1,0 +1,18 @@
+1702690713386	geckodriver	INFO	Listening on 127.0.0.1:50451
+1702690716537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileMMP8vH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702690717541	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702690717681	Marionette	INFO	Listening on port 50462
+WebDriver BiDi listening on ws://127.0.0.1:50452
+Read port: 50462
+1702690718117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50452/devtools/browser/2629c36c-011a-4520-b6ab-b3fad60cc584
+JavaScript error: resource:///actors/PageInfoChild.sys.mjs, line 282: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [imgIRequest.image]
+1702690747647	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702690759343	Marionette	INFO	Stopped listening on port 50462
+JavaScript warning: https://lumosestate.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1, line 2: Script terminated by timeout at:
+add/v.handle@https://lumosestate.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1:2:40997
+
+Dynamically enable window occlusion 1
